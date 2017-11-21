@@ -1,0 +1,2 @@
+https://www.codementor.io/davidtang/unit-testing-and-tdd-in-node-js-part-1-8t714s877
+https://www.codementor.io/nodejs/tutorial/unit-testing-tdd-node-js-nockjs-part-2
